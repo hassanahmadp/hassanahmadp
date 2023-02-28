@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Muhammad Ahmad Hassan (@hassanahmadp)
-- 👀 I’m interested in MERN stack web development
-- 🌱 I’m currently learning React.js
+- 👋 Hi, I’m Muhammad Ahmad Hassan (@hassanahmadp).
+- 💪 I'm a Senior Frontend Developer and Team Lead.
+- 👀 I’m interested in MERN stack web development.
+- 🌱 I’m currently learning Node.js
 - 📫 How to reach me :
 
       1. (WhatsApp):    https://wa.me/923244900796/
