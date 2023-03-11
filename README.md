@@ -5,9 +5,10 @@
 - 📫 How to reach me :
 
       1. (WhatsApp):    https://wa.me/923244900796/
-      2. (Instagram):   @hassaanahmadp
-      3. (Facebook):    https://www.facebook.com/hassaanahmadp/
-      4. (G-mail):      hassanahmadp@gmail.com
+                        +923244900796
+      3. (Instagram):   @hassaanahmadp
+      4. (Facebook):    https://www.facebook.com/hassaanahmadp/
+      5. (G-mail):      hassanahmadp@gmail.com
 
 <!---
 hassanahmadp/hassanahmadp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
