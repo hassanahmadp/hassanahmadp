@@ -1,13 +1,3 @@
-- 👋 Hi, I’m Muhammad Ahmad Hassan (@hassanahmadp).
-- 💪 I'm a MERN stack developer.
-- 👀 I’m interested in learning more about MERN stack web development.
-- 🌱 I’m currently learning Next.js
-- 📫 How to reach me :
-
-      3. (Instagram):   @hassaanahmadp
-      5. (G-mail):      hassanahmadp@gmail.com
-      6. (Skype):       hassanahmadp@gmail.com
-
 <h1 align="center">Hi , I'm Muhammad Ahmad Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/hassanahmadp"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN-stack+Developer;NextJS-13%20Developer;Aspiring%20Web3,%20Metaverse%20and%20AI%20Engineer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
@@ -49,6 +39,7 @@
 	<a href="mailto:hassaanahmaddigital@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/hassanahmadp"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/923184039892"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://wa.me/923244900796"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/muhammad-ahmad-hassan-1b86b8205/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
